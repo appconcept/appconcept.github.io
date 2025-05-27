@@ -88,3 +88,7 @@
 <p><strong>9. Marketing</strong></p>
 
 <p>We may send you marketing emails about our products or services that are similar to the products or services you are subscribed to, including information about events and other promotions we feel may interest you. This is unless you have indicated to us that you do not wish to receive communications in this manner. We will send you other promotional information by email only with your consent, which was given at the time you provided us with your personal data. Users can opt-out of receiving marketing communications at any time by clicking "unsubscribe" in one of the emails.</p>
+
+<p><strong>10. Disclaimer</strong></p>
+
+<p>Kena 4D is an independent application and is not affiliated with, endorsed by, or officially connected to any government agency or lottery operator, including but not limited to Sports Toto, Magnum 4D, Da Ma Cai, Singapore Pools, and others. All results and related data displayed in the app are sourced from publicly accessible information and are provided for informational purposes only. Users should refer to official sources for confirmation of results.</p>
